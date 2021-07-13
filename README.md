@@ -27,7 +27,11 @@ Mongo DB nosql database**
 
 #links for referrence
 https://www.mongodb.com/compatibility/mongodb-and-django
-https://www.youtube.com/watch?v=k5D37W6h56o
+https://www.youtube.com/watch?v=k5D37W6h56o**
+#for TSL/ SSL certificate errors**
+**
+https://pymongo.readthedocs.io/en/stable/examples/tls.html**
+
 
 ### to create an app###
 **python manage.py startapp _app_name_here
